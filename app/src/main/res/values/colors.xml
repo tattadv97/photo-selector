@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">@color/accent</color>
+    <color name="purple_500">@color/accent</color>
+    <color name="purple_700">@color/accent</color>
+    <color name="teal_200">@color/accent</color>
+    <color name="teal_700">@color/accent</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="accent">#1374ED</color>
+</resources>
